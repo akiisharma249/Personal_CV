@@ -1,0 +1,170 @@
+/* ***********************TAG SELECTORS*********************** */
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  width: 3.5%;
+  margin: 80px auto;
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: #bbbfca;
+}
+
+/* ***********************CLASS SELECTORS*********************** */
+.angela {
+  color: #a6f6f1;
+  text-decoration: none;
+  font-style: oblique;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 30%;
+  bottom: 300px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 50px;
+}
+
+.btn {
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  height: 10px;
+  line-height: 10px;
+  color: #FFFFFF;
+  font-family: sans-serif;
+  width: 140px;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 19px;
+  background-color: #66BFBF;
+  text-shadow: 1px 1px 20px #000000;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 40px auto 80px;
+}
+
+.btn:hover {
+  background: #66BFBF;
+  border: solid #337FED 1px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.circular {
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+  margin-top: 40px;
+}
+
+.contact-me {
+  line-height: 2;
+}
+
+.copyright {
+  margin: 0;
+  padding: 40px;
+  color: #eaf6f6;
+  font-size: 0.875rem;
+  font-weight: normal;
+}
+
+.footer-link {
+  margin: 30px;
+  text-decoration: none;
+}
+
+.getintouch {
+  margin-bottom: 40px;
+}
+
+.hacker {
+  height: 173.016px;
+  width: 148.359px;
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+}
+
+.middle-container {
+  background-color: #f1f6f9;
+}
+
+.regards-container {
+  background-color: #11999E;
+  color: #eaf6f6;
+  font-size: 0.600rem;
+  text-align: right;
+}
+
+.regards {
+  margin: 0;
+  padding: 10px 10px 6px 0;
+}
+
+.swimming {
+  height: 147.531px;
+  width: 148.359px;
+  border-radius: 100%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 30%;
+  top: 50px;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.web_designer {
+  font-weight: normal;
+}
